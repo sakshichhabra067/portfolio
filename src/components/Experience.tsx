@@ -4,10 +4,24 @@ import { Briefcase, Calendar } from 'lucide-react';
 export function Experience() {
   const experiences = [
     {
+      company: "ControlCase International Pvt Ltd",
+      location: "Mumbai",
+      role: "Consultant - Cyber Security",
+      period: "April 2025 – Current",
+      responsibilities: [
+        "Leading the development and implementation of ISO 27001:2022-aligned policies and procedures, ensuring comprehensive security framework adoption",
+        "Conducting gap analyses and risk assessments aligned with standards like ISO 27001/22301",
+        "Developed ISO 22301 & ISO 27001 report templates aligned with CERT-IN and industry best practices",
+        "Created NESA compliance matrix to map and track regulatory requirements",
+        "Prepare for and face external ISO certification audits with successful outcomes",
+        "Conducting risk assessments and provided Information Security approvals for vendor onboarding and offboarding"
+      ]
+    },
+    {
       company: "Nangia Co & LLP",
       location: "Mumbai",
       role: "Consultant - Cyber Security",
-      period: "Nov 2022 – Current",
+      period: "Nov 2022 – March 2025",
       responsibilities: [
         "Led the development and implementation of ISO 27001:2022-aligned policies and procedures, ensuring comprehensive security framework adoption",
         "Conducted in-depth SOC 1 and SOC 2 audits for banking and product-based companies, evaluating control effectiveness and compliance",
