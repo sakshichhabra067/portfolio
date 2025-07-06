@@ -22,8 +22,7 @@ export function Hero() {
             </h2>
 
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed px-4 md:px-0">
-              Specialized in ISO 27001:2022, SOC audits, and enterprise security compliance. 
-              Protecting digital assets through robust security frameworks and risk management.
+              Cyber Security Professional with 2.5+ years of experience in policy development, ISO 27001:2022 audit and implementation, SOC 2 type 1 and 2 audits, ITGC audits, and information security assessments etc. Certified Information Security Consultant and Professional Forensics Analyst with ISO 27001:2022 LA certification.
             </p>
 
             <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-6 mt-8 md:mt-12">
