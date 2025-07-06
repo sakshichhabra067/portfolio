@@ -13,7 +13,7 @@ export function Experience() {
         "Conducting gap analyses and risk assessments aligned with standards like ISO 27001/22301",
         "Developed ISO 22301 & ISO 27001 report templates aligned with CERT-IN and industry best practices",
         "Created NESA compliance matrix to map and track regulatory requirements",
-        "Prepare for and face external ISO certification audits with successful outcomes",
+        "Prepared for and faced external ISO certification audits with successful outcomes",
         "Conducting risk assessments and provided Information Security approvals for vendor onboarding and offboarding"
       ]
     },
