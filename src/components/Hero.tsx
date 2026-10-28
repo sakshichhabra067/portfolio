@@ -22,7 +22,7 @@ export function Hero() {
             </h2>
 
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed px-4 md:px-0">
-              Cyber Security Professional with 2.5+ years of experience in policy development, ISO 27001:2022 audit and implementation, SOC 2 type 1 and 2 audits, ITGC audits, and information security assessments etc. Certified Information Security Consultant and Professional Forensics Analyst with ISO 27001:2022 LA certification.
+              Cybersecurity Professional with 5+ years of experience in information security, policy development, regulatory compliance, and security audits, including National Electronic Security Authority (NESA), Security Futures Commission (Hong Kong), ISO/IEC 27001:2022 implementation and audits, SOC 2 Type I and Type II audits, IT General Controls (ITGC) audits, and information security assessments. Experienced in implementing and assessing security controls aligned with the National Institute of Standards and Technology (NIST) SP 800-53 and NIST Cybersecurity Framework (NIST CSF). Certified Information Security Consultant and Professional Forensics Analyst, with ISO/IEC 27001:2022 Lead Auditor (LA) certification.
             </p>
 
             <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-6 mt-8 md:mt-12">
